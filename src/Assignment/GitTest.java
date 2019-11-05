@@ -7,6 +7,7 @@ public class GitTest {
 		System.out.println("another one");
 		System.out.println("another two");
 		System.out.println("another three");
+		System.out.println("mulai lagi");
 	}
 
 }
